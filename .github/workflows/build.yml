@@ -29,7 +29,7 @@ jobs:
         matrix:
           include:
             - boardfamily: rockchip-rk3588
-              branch: edge
+              branch: current
               representative: rock-5b
             - boardfamily: rockchip-rk3588
               branch: legacy
